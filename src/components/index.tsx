@@ -4,6 +4,7 @@ export { default as Heading } from './Heading/Heading';
 export { default as Button } from './Button/Button';
 export { TextInput } from './TextInput/TextInput';
 export { default as Checkbox } from './Checkbox/Checkbox';
+export { default as Logo } from './Logo/Logo';
 
 // Interfaces/Type
 export type { TextProps } from './Text/Text';
