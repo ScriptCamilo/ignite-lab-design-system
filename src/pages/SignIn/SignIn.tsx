@@ -11,7 +11,8 @@ function SignIn() {
     event.preventDefault();
 
     axios.post('/sessions', {
-      email: ''
+      email: 'camilo@example.com',
+      password: '12345678',
     });
 
     setIsUserSignedIn(true);
