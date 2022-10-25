@@ -1,0 +1,2 @@
+import{C as r,T as s}from"./Logo.a82963f0.js";import{a as o,j as t}from"./jsx-runtime.543a9e39.js";import"./index.373c4a2e.js";import"./iframe.c79d2ea9.js";import"./index.a90cd177.js";const p={title:"Components/Checkbox",component:r,args:{},argTypes:{},decorators:[e=>o("label",{className:"flex items-center gap-2",children:[e(),t(s,{size:"sm",children:"Lembrar-me de mim por 30 dias"})]})]},l={},x=["Default"];export{l as Default,x as __namedExportsOrder,p as default};
+//# sourceMappingURL=Checkbox.stories.53b48a14.js.map
